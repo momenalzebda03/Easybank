@@ -1,0 +1,500 @@
+.div {
+    background-color: white;
+    height: 10%;
+    width: 100%;
+    position: absolute;
+    top: 0%;
+    left: 0%;    
+}
+.div5 {
+    background-color: black;
+    height: 15px;
+    width: 100%;
+    margin-top: 3.5%;
+    margin-left: -1%;
+    box-shadow: 1px 1px 800px #888888f2;
+}
+.img {
+    width: 2%;
+    position: absolute;
+    top: 33%;
+    left: 9%;
+}
+.h {
+    position: absolute;
+    top: -0.5%;
+    left: 11%;
+}
+.h11 {
+    position: absolute;
+    top: 20%;
+    left: 12%;
+    color: white;
+}
+.p:hover {
+    border-width: 0px 0px 2px 0px;
+    border-style: solid;
+    border-color: red;
+    color: black;
+    transition: 0.5s;
+}
+.p1:hover {
+    border-width: 0px 0px 2px 0px;
+    border-style: solid;
+    border-color: red;
+    color: black;
+    transition: 0.5s;
+}
+.p2:hover {
+    border-width: 0px 0px 2px 0px;
+    border-style: solid;
+    border-color: red;
+    color: black;
+    transition: 0.5s;
+}
+.p3:hover {
+    border-width: 0px 0px 2px 0px;
+    border-style: solid;
+    border-color: red;
+    color: black;
+    transition: 0.5s;
+}
+.p4:hover {
+    border-width: 0px 0px 2px 0px;
+    border-style: solid;
+    border-color: red;
+    color: black;
+    transition: 0.5s;
+} 
+.h1 {
+    position: absolute;
+    top: -10%;
+    right: 13%;
+    background-image: linear-gradient(to right, rgb(46, 46, 240) , rgb(75, 255, 81));
+    border-radius: 25px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 0.7%;
+    padding-bottom: 0.7%;
+    color: white;
+}
+.h12 {
+    position: absolute;
+    top: 20%;
+    right: 8%;
+    background-image: linear-gradient(to right, rgb(46, 46, 240) , rgb(75, 255, 81));
+    border-radius: 25px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 0.7%;
+    padding-bottom: 0.7%;
+    color: white;
+}
+.h4 {
+    position: absolute;
+    top: 50%;
+    left: 8%;
+    background-image: linear-gradient(to right, rgb(46, 46, 240) , rgb(75, 255, 81));
+    border-radius: 25px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 0.7%;
+    padding-bottom: 0.7%;
+    color: white;
+}
+.h4:hover {
+    background-color: red;
+    transition: 1s;
+}
+.img1 {
+    width: 34%;
+    position: absolute;
+    top: 10%;
+    right: 0%;
+    border-radius: 0px 0px 0px 500px;
+}
+.img2 {
+    position: absolute;
+    top: 10%;
+    right: 8%;
+    border-radius:0% 0% 10% 10%;
+}
+.img3 {
+    border-radius: 10%;
+    position: absolute;
+    top: 20%;
+    right: 0%;
+}
+.img4 {
+    border-radius: 10%;
+    position: absolute;
+    top: 60%;
+    right: 8%;
+}
+.img5 {
+    border-radius: 10%;
+    height: 55%;
+    position: absolute;
+    top: 20%;
+    right: 23%;
+}
+.h2 {
+    font-size: 250%;
+    position: absolute;
+    top: 15%;
+    left: 8%;
+    color: dimgray;
+}
+.h3 {
+    font-size: 250%;
+    position: absolute;
+    top: 22%;
+    left: 8%;
+    color: dimgray;
+}
+.p5 {
+    position: absolute;
+    top: 35%;
+    left: 8%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p6 {
+    position: absolute;
+    top: 39%;
+    left: 8%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p7 {
+    position: absolute;
+    top: 43%;
+    left: 8%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.div1 {
+    background-color: #eee;
+    height: 80%;
+    width: 100%;
+    position: absolute;
+    top: 117%;
+    left: 0%;
+}
+.h5 {
+    font-size: 200%;
+    position: absolute;
+    top: 10%;
+    left: 8%;
+    color: dimgray;
+}
+.p8 {
+    position: absolute;
+    top: 25%;
+    left: 8%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p9 {
+    position: absolute;
+    top: 30%;
+    left: 8%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.img6 {
+    width: 4%;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 10%;
+}
+.img6:hover {
+    width: 5%;
+    transition: 0.5s;
+}
+.img7 {
+    width: 4%;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
+.img7:hover {
+    width: 5%;
+    transition: 0.5s;
+}
+.img8 {
+    width: 4%;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+.img8:hover {
+    width: 5%;
+    transition: 0.5s;
+}
+.img9 {
+    width: 4%;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 70%;
+}
+.img9:hover {
+    width: 5%;
+    transition: 0.5s;
+}
+.h6 {
+    position: absolute;
+    top: 60%;
+    left: 9%;
+    color: dimgray;
+}
+.h7 {
+    position: absolute;
+    top: 60%;
+    left: 29%;
+    color: dimgray;
+}
+.h8 {
+    position: absolute;
+    top: 60%;
+    left: 49%;
+    color: dimgray;
+}
+.h9 {
+    position: absolute;
+    top: 60%;
+    left: 69.5%;
+    color: dimgray;
+}
+.p10 {
+    position: absolute;
+    top: 68%;
+    left: 9%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p14 {
+    position: absolute;
+    top: 68%;
+    left: 29%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p18 {
+    position: absolute;
+    top: 68%;
+    left: 49%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p22 {
+    position: absolute;
+    top: 68%;
+    left: 69%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p11 {
+    position: absolute;
+    top: 73%;
+    left: 9%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p15 {
+    position: absolute;
+    top: 73%;
+    left: 29%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p19 {
+    position: absolute;
+    top: 73%;
+    left: 49%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p23 {
+    position: absolute;
+    top: 73%;
+    left: 69%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p12 {
+    position: absolute;
+    top: 78%;
+    left: 9%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p16 {
+    position: absolute;
+    top: 78%;
+    left: 29%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p20 {
+    position: absolute;
+    top: 78%;
+    left: 49%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p24 {
+    position: absolute;
+    top: 78%;
+    left: 69%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p13 {
+    position: absolute;
+    top: 83%;
+    left: 9%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p17 {
+    position: absolute;
+    top: 83%;
+    left: 29%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p21 {
+    position: absolute;
+    top: 83%;
+    left: 49%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.p25 {
+    position: absolute;
+    top: 83%;
+    left: 69%;
+    color: rgba(105, 105, 105, 0.504);
+}
+.div2 {
+    margin-top: 0.5%;   
+    margin-left: 34%;
+    display: flex;    
+}
+.a {
+    margin-left: 1%;
+    margin-right: 2%;
+    text-decoration: none;
+    color:#eee;
+}
+.div3 {
+    margin-top: 0.5%;
+    margin-left: 35%;
+    display: flex;    
+}
+.h10 {
+    color: dimgray;
+    position: absolute;
+    top: 205%;
+    left: 5%;
+}
+.div4 {    
+    margin-top: 108%;
+    margin-left: -6%;
+}
+.img10 {
+    margin-left: 9%;
+    width: 15%;
+    height: 150px;
+    border-radius: 5%;
+}
+.img10:hover {
+   width: 18%;
+   transition: 0.5s;
+}
+.div6 {
+    margin-left: -10.5%;
+    display: flex;
+}
+.p26 {
+    color: rgba(105, 105, 105, 0.385);
+    margin-left: 16%;
+}
+.div7 {
+    margin-left: 7%;
+    font-size: 140%;
+    color: dimgray;
+    line-height: 50%;
+    margin-top: 0.5%;
+}
+.div8 {
+    margin-left: 31%;
+    font-size: 140%;
+    color: dimgray;
+    line-height: 50%;
+    margin-top: -11.8%;
+}
+.div9 {
+    margin-left: 58%;
+    font-size: 140%;
+    color: dimgray;
+    line-height: 50%;
+    margin-top: -12%;
+}
+.div10 {
+    margin-left: 84%;
+    font-size: 140%;
+    color: dimgray;
+    line-height: 50%;
+    margin-top: -12.1%;
+}
+.p31 {
+    color: rgba(105, 105, 105, 0.385);
+    font-size: 80%;
+    margin-top: 2%;
+    line-height: 1%;
+}
+.p32 {
+    color: rgba(105, 105, 105, 0.385);
+    font-size: 80%;
+    margin-top: 3%;
+    margin-left: 0%;
+    line-height: 1%;
+}
+.p33 {
+    color: rgba(105, 105, 105, 0.385);
+    font-size: 80%;
+    margin-top: 4.5%;
+    margin-left: 0%;
+    line-height: 1%;
+}
+.p34 {
+    color: rgba(105, 105, 105, 0.385);
+    font-size: 80%;
+    margin-top: 12%;
+    margin-left: 0%;
+    line-height: 1%;
+}
+.div11 {
+    background-color: rgba(0, 0, 255, 0.571);
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    top: 290%;
+    left: 0%;
+}
+.p35 {
+    color: dimgray;
+    position: absolute;
+    top: 55%;
+    right: 6%;
+}
+.div12 {
+    margin-top: 8%;
+    margin-left: 7%;        
+}
+.img11 {
+    height: 25px;
+    width: 2%; 
+    border-radius: 40%;
+    margin-left: 0.5%;  
+}
+.div13 {
+    color: white;
+    margin-top: -6%;
+    margin-left: 35%;
+}
+.div14 {
+    color: white;
+    margin-top: -6.8%;
+    margin-left: 45%;
+}
+.p36:hover {
+    color: orange;
+    transition: 0.5s;
+}
